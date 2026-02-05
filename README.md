@@ -58,7 +58,6 @@ The system uses a **serverless cloud-native architecture** for scalability and c
 - Text-to-Speech: Amazon Polly
 - Monitoring & Security: AWS IAM, CloudWatch
 
-> Detailed architecture is documented in `design.md`
 
 ---
 
@@ -75,5 +74,4 @@ The system uses a **serverless cloud-native architecture** for scalability and c
 
 ---
 
-## 📂 Repository Structure
 
