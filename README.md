@@ -1,4 +1,3 @@
-
 # 🇮🇳 Bharat Sahayak – Voice-First AI Assistant for Government Schemes
 
 Bharat Sahayak is a **voice-enabled, AI-powered assistant** designed to help citizens easily discover, understand, and apply for **government welfare schemes** using **local Indian languages**.  
